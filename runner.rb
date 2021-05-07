@@ -5,7 +5,8 @@ cmds = {
     "cr" => "crystal run %s",
     "js" => "node %s",
     "py" => "python %s",
-    "rb" => "ruby %s"
+    "rb" => "ruby %s",
+    "go" => "go run %s"
 }
 
 
