@@ -6,7 +6,8 @@ cmds = {
     "js" => "node %s",
     "py" => "python %s",
     "rb" => "ruby %s",
-    "go" => "go run %s"
+    "go" => "go run %s",
+    "ts" => "npx ts-node %s"
 }
 
 
